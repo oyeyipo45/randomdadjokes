@@ -1,0 +1,19 @@
+{
+  "name": "node_class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "dev" : "nodemon start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.4",
+    "nodemon": "^2.0.3"
+  }
+}
